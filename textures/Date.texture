@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Date",
+  "identifier": "texture:864279-25f254c6-227e-4770-b4bd-a085f01d4c14",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "cc06c25331976f35b834864d22735af0",
+  "assetLocator": "textures/Date.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 470,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 531,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "cc06c25331976f35b834864d22735af0",
+      "colorCount": 35105,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.3154858750954554,
+      "pixelsHigh": 470,
+      "pixelsWide": 531
+    }
+  ]
+}

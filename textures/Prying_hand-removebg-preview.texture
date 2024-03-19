@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Prying_hand-removebg-preview",
+  "identifier": "texture:864275-25f254c6-227e-4770-b4bd-a085f01d4c14",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8d3eafeb7c0d1b6e2493627fb1ad0c55",
+  "assetLocator": "textures/Prying_hand-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 538,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 463,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8d3eafeb7c0d1b6e2493627fb1ad0c55",
+      "colorCount": 14434,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.373673705609392,
+      "pixelsHigh": 538,
+      "pixelsWide": 463
+    }
+  ]
+}

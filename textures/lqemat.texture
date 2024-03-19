@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "lqemat",
+  "identifier": "texture:865503-25f254c6-227e-4770-b4bd-a085f01d4c14",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ac7d8f2551c6d9e1c186eddaab773b1e",
+  "assetLocator": "textures/lqemat.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 420,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 593,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ac7d8f2551c6d9e1c186eddaab773b1e",
+      "colorCount": 61551,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.405274570836536,
+      "pixelsHigh": 420,
+      "pixelsWide": 593
+    }
+  ]
+}
